@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am Ahammed, a data scientist from India, skilled in machine learning and statistics and economics; I am detail oriented  deliver high-quality work, and continuously seek opportunities to learn and grow. I'm a valuable asset to any project, equipped to handle challenges as a developer.
 
-Skills: SCIKIT LEARN / AI/ STATISTICS/ ANALYTICS/
+Skills: SCIKIT LEARN / AI / STATISTICS / ANALYTICS /
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Post graduation in applied statitics 
