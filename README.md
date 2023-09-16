@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am ahammed from India. I enjoy working with data,statistics and economics
+### Hi there 👋, my name is Ahammed
+#### Statistics and Economics 
+![Statistics and Economics ](https://user-images.githubusercontent.com/62167887/261328389-d4d98167-5d12-468e-8b9d-9c4d5182da42.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahammed867)](https://github.com/anuraghazra/github-readme-stats)
+I am Ahammed, a data scientist from India, skilled in machine learning and statistics and economics; I am detail oriented  deliver high-quality work, and continuously seek opportunities to learn and grow. I'm a valuable asset to any project, equipped to handle challenges as a developer.
+
+Skills: SCIKIT LEARN / AI/ STATISTICS/ ANALYTICS/
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
