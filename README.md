@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am ahammed from India. I enjoy working with data,statistics and economics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahammed867)](https://github.com/anuraghazra/github-readme-stats)
