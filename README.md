@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, my name is Ahammed
-#### Statistics and Economics 
+#### Data Scientist 
 ![Statistics and Economics ](https://user-images.githubusercontent.com/62167887/261328389-d4d98167-5d12-468e-8b9d-9c4d5182da42.gif)
 
 I am Ahammed, a data scientist from India, skilled in machine learning and statistics and economics; I am detail oriented  deliver high-quality work, and continuously seek opportunities to learn and grow. I'm a valuable asset to any project, equipped to handle challenges as a developer.
